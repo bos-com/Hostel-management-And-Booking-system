@@ -1,4 +1,4 @@
-# Hostel Management System (HMS)
+# Hostel Management And Booking System (HMBS)
 
 ## Overview
 This project is a web-based Hostel Management System (HMS) designed to replace manual record-keeping with a digital system for managing student registrations, room bookings, payments, and administrative tasks. The system is built using **PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap**.
