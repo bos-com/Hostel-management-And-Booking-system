@@ -11,7 +11,7 @@ This project is a web-based Hostel Management System (HMS) designed to replace m
 - Real-time updates on room availability
 - Reports for occupancy and financial tracking
 
-## Project Structure (Diagrams & Screenshots)
+## Project Structure
 **Figures:**
 - System Architecture Diagram
 - Data Flow Diagram (DFD)
